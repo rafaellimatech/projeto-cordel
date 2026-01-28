@@ -102,6 +102,14 @@ section#img02 {
     background-position: center center;
 }
 
+@media(max-width:768px) {
+    #img01{
+        background-attachment: scroll;
+    }
+    #img02{
+        background-attachment: scroll;
+    }
+
 footer {
     background-color: #B89B72;
     text-align: center;
