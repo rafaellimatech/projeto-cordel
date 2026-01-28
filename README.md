@@ -7,7 +7,7 @@ Site desenvolvido com inspiração na **literatura de cordel nordestina**, traze
 
 ---
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 O objetivo deste projeto é:
 
@@ -17,7 +17,7 @@ O objetivo deste projeto é:
 
 ---
 
-## 🧩 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * HTML5
 * CSS3
@@ -26,7 +26,7 @@ O objetivo deste projeto é:
 
 ---
 
-## 📱 Responsividade
+##  Responsividade
 
 O site foi desenvolvido para se adaptar a diferentes tamanhos de tela:
 
@@ -58,7 +58,7 @@ projeto-cordel/
 
 ---
 
-## 🚀 Aprendizados
+##  Aprendizados
 
 Com este projeto foi possível aprender e praticar:
 
@@ -71,7 +71,7 @@ Com este projeto foi possível aprender e praticar:
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido por **Rafael Rocha** com ajuda o **CursoemVídeo**
 Estudante de Ciência da Computação
