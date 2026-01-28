@@ -4,10 +4,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Orbitron:wght@400..900&family=Passion+One:wght@400;700;900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Bahiana&display=swap');
+
 :root { 
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: "Passion One", sans-serif;
     --fonte3: "Dancing Script", cursive;
+    --fonte4: "Bahiana", sans-serif;
 
 }
 
@@ -56,7 +59,7 @@ section {
     padding-bottom: 10vh;
     line-height: 2em; /*Espaçamento Duplo*/
     padding-left: 30px;
-    font-family: var(--fonte3);
+    font-family: var(--fonte4);
     font-size: 3.5vw;
 }
 
